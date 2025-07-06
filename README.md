@@ -1,6 +1,6 @@
 ## Olá Eu Sou o Arthur Henrique 🫡
--💻Estudando C#(Csharp) 
--🧑‍🎓Graduando em ADS (Analise e Desenvolvimento de Sistemas)
+-Back-End Develop (Estudando). 
+-🧑‍🎓Graduando em ADS (Analise e Desenvolvimento de Sistemas).
 
  <div>
   <a href="https://github.com/4rthurhr">
