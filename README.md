@@ -6,14 +6,17 @@
   <a href="https://github.com/4rthurhr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4rthurhr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthurhr&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Arthur-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Arthur-PostgreSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-</div>
-  
+   
+<br></br>
+  <span>
+  <code><img src="https://skillicons.dev/icons?i=html" /></code>
+  <code><img src="https://skillicons.dev/icons?i=css" /></code>
+  <code><img src="https://skillicons.dev/icons?i=java" /></code>
+  <code><img src="https://skillicons.dev/icons?i=spring" /></code>
+  <code><img src="https://skillicons.dev/icons?i=postgres" /></code>
+  <code><img src="https://skillicons.dev/icons?i=git" /></code>
+</span>
+
  ##
 
 <div> 
