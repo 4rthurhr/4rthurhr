@@ -9,8 +9,6 @@
    
 <br></br>
   <span>
-  <code><img src="https://skillicons.dev/icons?i=html" /></code>
-  <code><img src="https://skillicons.dev/icons?i=css" /></code>
   <code><img src="https://skillicons.dev/icons?i=java" /></code>
   <code><img src="https://skillicons.dev/icons?i=spring" /></code>
   <code><img src="https://skillicons.dev/icons?i=postgres" /></code>
